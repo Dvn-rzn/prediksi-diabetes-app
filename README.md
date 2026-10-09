@@ -3,7 +3,7 @@
 Aplikasi berbasis Web dan Machine Learning untuk menganalisis estimasi risiko diabetes berdasarkan indikator kesehatan pribadi.
 
 🚀 **Coba Aplikasi Web Secara Langsung:**
-[Klik di sini untuk membuka Web Prediksi Diabetes]([[https://prediksi-diabetes-app.streamlit.app](https://prediksi-diabetes-app-f9zarhgmdzatcxe7mtwpr7.streamlit.app/)](https://prediksi-diabetes-app-f9zarhgmdzatcxe7mtwpr7.streamlit.app/))
+[Klik di sini untuk membuka Web Prediksi Diabetes](https://prediksi-diabetes-app-f9zarhgmdzatcxe7mtwpr7.streamlit.app/)
 
 ## 🛠️ Fitur Utama
 - Input indikator kesehatan fisik & riwayat medis sederhana
